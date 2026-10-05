@@ -1,0 +1,5 @@
+
+\# PYRO 1.0 — Core Baseline Dependencies
+torch>=2.0.0
+numpy>=1.22.0
+triton>=2.0.0
